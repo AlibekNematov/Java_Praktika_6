@@ -1,7 +1,6 @@
 package com.company;
 
 import java.util.Scanner;
-import com.company.SimpleStack;
 
 public class Main extends  Game{
     public static void main(String[] args){
